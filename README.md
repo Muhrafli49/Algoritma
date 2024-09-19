@@ -25,6 +25,7 @@ Input:
   "INPUT": ["xc", "dz", "bbb", "dz"],
   "QUERY": ["bbb", "ac", "dz"]
 }
+```
 
 ### 4. Calculate the Diagonal Difference in a Matrix
 **Description:**  
