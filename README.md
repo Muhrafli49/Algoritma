@@ -10,19 +10,11 @@ This repository contains solutions to four algorithmic problems implemented in J
 Input: `"NEGIE1"`  
 Output: `"EIGEN1"`
 
-**Implementation:** This script reverses only the alphabetical characters in the string while preserving the position of the numerical characters.
-
-**File:** `reverse-alphabet/reverse-alphabet.js`
-
 ### 2. Longest Word in Sentence
 **Description:** Given a sentence, find the longest word. If there are multiple words with the same length, return one of them.  
 **Example:**  
 Input: `"Saya sangat senang mengerjakan soal algoritma"`  
 Output: `"mengerjakan"` (11 characters)
-
-**Implementation:** This script processes the input sentence to find and return the longest word by character count.
-
-**File:** `longest-word/longest-word.js`
 
 ### 3. Count Occurrences in Input Array
 **Description:** Given two arrays, `INPUT` and `QUERY`, determine how many times each word in `QUERY` appears in `INPUT`.  
